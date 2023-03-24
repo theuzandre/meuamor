@@ -1,4 +1,3 @@
-confirm("Não chore ok?")
 $(document).ready(function(){
 
     $(".mudaTela").click(function(){
